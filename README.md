@@ -1,16 +1,11 @@
 # un_poco_eco
+An application to promote a sustainable community, it enables its users to
+- post about their environmental goals and achievements.
+- schedule events related to keeping the community aware and active.
+- read worldwide news about sustainability.
 
-A new Flutter project.
+steps to run the project
+- download the zip file.
+- open it in the root directory which supports flutter.
+- run flutter pub get to help your project fetch all the flutter packages required for the project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
