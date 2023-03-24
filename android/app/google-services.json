@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971380341908",
+    "project_id": "unpocoeco",
+    "storage_bucket": "unpocoeco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971380341908:android:4b71a04e9f49e17768c881",
+        "android_client_info": {
+          "package_name": "com.example.un_poco_eco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971380341908-98c0qq1cgb89om47skfp24p7jispbael.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh_hbyQVvRnzz3tUbjuKjRtD_DVKbx4rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971380341908-98c0qq1cgb89om47skfp24p7jispbael.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
